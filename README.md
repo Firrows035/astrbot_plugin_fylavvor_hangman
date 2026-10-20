@@ -7,8 +7,8 @@ AstrBot 的经典 Hangman（猜词）游戏插件：机器人随机抽一个长�
 
 | 指令 | 说明 |
 | --- | --- |
-| `/startguess` | 开始一轮猜词。当前会话已有未结束的对局时，会提示继续该局 |
-| `/guess <字母或单词>` | 单个字母 → 揭示它在答案中的全部位置；多个字母 → 先查词库，再与答案比较 |
+| `/startguess`（别名 `/猜词`） | 开始一轮猜词。当前会话已有未结束的对局时，会提示继续该局 |
+| `/guess <字母或单词>`（别名 `/猜`） | 单个字母 → 揭示它在答案中的全部位置；多个字母 → 先查词库，再与答案比较 |
 | `/giveup` | 放弃本轮，直接公布答案 |
 
 - 不区分大小写，`/guess D` 与 `/guess d` 等价。
@@ -35,14 +35,19 @@ AstrBot 的经典 Hangman（猜词）游戏插件：机器人随机抽一个长�
 
 ## 词库
 
-- `dict/answers.txt`：答案池，4693 个词。
-- `dict/words.txt`：猜词合法性校验词表，4770 个词（包含全部答案）。
+- `dict/answers.txt`：答案池，8977 个词。
+- `dict/words.txt`：猜词合法性校验词表，8999 个词（包含全部答案）。
 
 两表均为长度 ≥ 6 的纯字母单词，且已统一为小写。替换词表时保持同样的格式
 （每行一个单词）即可，答案池必须是校验词表的子集。
 
-内置词表来自 [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary)，
-经由 [astrbot_plugin_wordle](https://github.com/Raven95676/astrbot_plugin_wordle) 的 `classic` 词典筛选而来。
+内置词表由两部分合并而成：
+
+- 基础词表来自 [KyleBing/english-vocabulary](https://github.com/KyleBing/english-vocabulary)（BSD-3-Clause），
+  经由 [astrbot_plugin_wordle](https://github.com/Raven95676/astrbot_plugin_wordle) 的 `classic` 词典筛选；
+- 六级、雅思、托福词汇来自 [ECDICT](https://github.com/skywind3000/ECDICT)（MIT），
+  按 `cet6` / `ielts` / `toefl` 标签提取，各 3981 / 3678 / 5555 词（去重后与基础词表合并）。
+
 
 ## 平台说明
 
