@@ -24,8 +24,8 @@ MASK_CHAR = "？"
 DICT_DIR = Path(__file__).resolve().parent / "dict"
 
 START_PROMPT = "游戏开始！"
-NO_GAME_PROMPT = "当前没有进行中的猜词游戏，请先使用 /startguess 开始。"
-RUNNING_PROMPT = "本会话已有进行中的猜词游戏，请使用 /guess 继续，或使用 /giveup 放弃。"
+NO_GAME_PROMPT = "当前没有进行中的猜词游戏，请先使用 /startguess 或 /猜词 开始。"
+RUNNING_PROMPT = "本会话已有进行中的猜词游戏，请使用 /guess 或 /猜 继续，或使用 /giveup 放弃。"
 EMPTY_GUESS_PROMPT = "请输入要猜的字母或单词，例如：/guess a"
 INVALID_GUESS_PROMPT = "请输入英文字母或单词。"
 UNKNOWN_WORD_PROMPT = "词汇不在词库中，请输入正确单词"
@@ -102,7 +102,7 @@ class FylavvorHangman(Star):
             f"{len(self.words)} dictionary words."
         )
 
-    @filter.command("startguess")
+    @filter.command("startguess", alias={"猜词"})
     async def startguess(self, event: AstrMessageEvent):
         """Start a new round in the current session."""
         session = event.unified_msg_origin
@@ -119,7 +119,7 @@ class FylavvorHangman(Star):
         self._restart_timer(session)
         yield event.plain_result(f"{START_PROMPT}\n{game.status_text()}")
 
-    @filter.command("guess")
+    @filter.command("guess", alias={"猜"})
     async def guess(self, event: AstrMessageEvent, text: str = ""):
         """Reveal a letter or compare a whole word with the answer."""
         session = event.unified_msg_origin
