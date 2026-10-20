@@ -16,7 +16,7 @@ from astrbot.api import logger
 from astrbot.api.event import AstrMessageEvent, MessageChain, filter
 from astrbot.api.star import Context, Star, register
 
-PLUGIN_VERSION = "1.0.0"
+PLUGIN_VERSION = "1.0.1"
 MAX_ATTEMPTS = 6
 IDLE_TIMEOUT_SECONDS = 60
 MIN_WORD_LENGTH = 6

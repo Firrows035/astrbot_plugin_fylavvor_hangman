@@ -48,7 +48,6 @@ AstrBot 的经典 Hangman（猜词）游戏插件：机器人随机抽一个长�
 - 六级、雅思、托福词汇来自 [ECDICT](https://github.com/skywind3000/ECDICT)（MIT），
   按 `cet6` / `ielts` / `toefl` 标签提取，各 3981 / 3678 / 5555 词（去重后与基础词表合并）。
 
-
 ## 平台说明
 
 插件只发送纯文本，适用于 OneBot（aiocqhttp）、QQ 官方机器人、Telegram、Discord、Lark 等平台。
@@ -56,4 +55,4 @@ AstrBot 的经典 Hangman（猜词）游戏插件：机器人随机抽一个长�
 
 ## 版本
 
-- v1.0.0：首个版本。
+当前版本 v1.0.1，完整更新记录见 [CHANGELOG.md](CHANGELOG.md)。
