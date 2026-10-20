@@ -3,6 +3,17 @@
 本插件的版本更新记录。格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)，
 版本号遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [1.0.2] - 2026-10-20
+
+### 变更
+
+- 答案池剔除复数形式：依据 ECDICT 的 `s:` 变形标注（如 `story` → `s:stories`）识别，
+  共移除 261 个词，答案池由 8977 词变为 8716 词；不会误删以 s 结尾的副词与单数名词
+  （`towards`、`species`、`pancreas` 等 37 词均保留）。
+- ECDICT 把 11 个学科名/集合名词（`aerodynamics`、`ceramics`、`mechanics`、`police`、`cattle` 等）
+  也标注为复数，这些词已加入白名单并保留在答案池。
+- `dict/words.txt` 保持不变，复数形式仍是合法猜测词表的一部分，猜中它们不会触发“词库外”提示。
+
 ## [1.0.1] - 2026-10-20
 
 ### 新增

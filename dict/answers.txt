@@ -68,13 +68,11 @@ accessory
 accident
 accidental
 accidentally
-accidents
 acclaim
 acclaimed
 accommodate
 accommodating
 accommodation
-accommodations
 accompaniment
 accompany
 accompanying
@@ -93,7 +91,6 @@ accountability
 accountable
 accountancy
 accountant
-accountants
 accounting
 accredit
 accumulate
@@ -126,11 +123,9 @@ acronym
 across
 acting
 action
-actions
 activate
 active
 actively
-activities
 activity
 actress
 actual
@@ -187,13 +182,11 @@ adrift
 adroit
 adulteration
 adulthood
-adults
 advance
 advanced
 advancement
 advantage
 advantageous
-advantages
 advent
 adventitious
 adventure
@@ -206,7 +199,6 @@ adversely
 adversity
 advertise
 advertisement
-advertisements
 advertiser
 advertising
 advice
@@ -224,7 +216,6 @@ aesthetic
 aesthetical
 affable
 affair
-affairs
 affect
 affected
 affection
@@ -247,7 +238,6 @@ afternoon
 afterward
 afterwards
 against
-agencies
 agency
 agenda
 aggravate
@@ -340,7 +330,6 @@ ambulance
 ambush
 amenable
 amendment
-amends
 amenity
 america
 american
@@ -384,7 +373,6 @@ anesthetic
 anguish
 angular
 animal
-animals
 animated
 animosity
 annihilate
@@ -417,7 +405,6 @@ anthem
 anthology
 anthropology
 antibiotic
-antibiotics
 anticipate
 anticipation
 antioxidant
@@ -480,7 +467,6 @@ apprehend
 apprehension
 apprentice
 approach
-approaches
 approaching
 appropriate
 appropriation
@@ -507,7 +493,6 @@ architect
 architectural
 architecture
 archive
-archives
 arctic
 ardent
 arduous
@@ -535,7 +520,6 @@ arsenal
 artery
 arthritis
 article
-articles
 articulate
 artifact
 artificial
@@ -576,7 +560,6 @@ assessment
 assiduous
 assign
 assignment
-assignments
 assimilate
 assimilation
 assist
@@ -624,11 +607,9 @@ attach
 attached
 attachment
 attack
-attacks
 attain
 attainment
 attempt
-attempts
 attend
 attendance
 attendant
@@ -656,7 +637,6 @@ augment
 august
 aurora
 auspice
-auspices
 auspicious
 austerity
 australia
@@ -720,7 +700,6 @@ backup
 backward
 backwards
 backyard
-bacteria
 bacterium
 badger
 badminton
@@ -812,7 +791,6 @@ beforehand
 befuddle
 beggar
 beginner
-beginners
 beginning
 begrudge
 beguile
@@ -829,14 +807,12 @@ belittle
 belligerent
 bellows
 belong
-belongings
 beloved
 beneath
 benefactor
 beneficial
 beneficiary
 benefit
-benefits
 benevolent
 benign
 bequest
@@ -862,7 +838,6 @@ bibliography
 bicameral
 bicker
 bicycle
-bicycles
 bidding
 bigoted
 bigotry
@@ -905,7 +880,6 @@ blessing
 blindly
 blizzard
 blockade
-blocks
 blonde
 bloody
 blossom
@@ -999,14 +973,12 @@ brittle
 broadcast
 broaden
 brochure
-brochures
 broken
 brokenhearted
 broker
 bronze
 brother
 brotherhood
-brothers
 brownish
 browse
 browser
@@ -1022,7 +994,6 @@ budget
 buffalo
 buffet
 building
-buildings
 bullet
 bulletin
 bumblebee
@@ -1092,7 +1063,6 @@ candid
 candidacy
 candidate
 candle
-candles
 cannibalism
 cannon
 cannot
@@ -1178,7 +1148,6 @@ cathedral
 catholic
 cattle
 causal
-causes
 caustic
 caution
 cautious
@@ -1222,7 +1191,6 @@ certain
 certainly
 certainty
 certificate
-certificates
 certify
 cession
 chagrin
@@ -1248,7 +1216,6 @@ characteristic
 characterize
 charcoal
 charge
-charges
 chariot
 charisma
 charitable
@@ -1260,10 +1227,8 @@ chateau
 chatter
 cheaper
 checkout
-checks
 checkup
 cheerful
-cheers
 cheese
 chemical
 chemist
@@ -1273,12 +1238,10 @@ cherish
 cherry
 chestnut
 chicken
-chicks
 chiefly
 childcare
 childhood
 childish
-children
 chilli
 chilly
 chimney
@@ -1289,12 +1252,10 @@ chivalry
 chlorophyll
 chocolate
 choice
-choices
 cholesterol
 choose
 choppy
 chopstick
-chopsticks
 choreograph
 choreographer
 choreographic
@@ -1327,7 +1288,6 @@ circumstance
 circumvent
 circus
 citadel
-cities
 citizen
 citizenship
 civilian
@@ -1349,7 +1309,6 @@ classical
 classification
 classify
 classmate
-classmates
 classroom
 clatter
 clause
@@ -1368,7 +1327,6 @@ clerical
 clever
 cliche
 client
-clients
 climate
 climatic
 climax
@@ -1379,7 +1337,6 @@ clockwise
 closely
 closet
 clothe
-clothes
 clothing
 cloudy
 clumsy
@@ -1423,12 +1380,10 @@ collar
 collate
 collateral
 colleague
-colleagues
 collect
 collection
 collective
 college
-colleges
 collide
 collision
 colloquial
@@ -1471,7 +1426,6 @@ commerce
 commercial
 commercialise
 commercialize
-commercials
 commingle
 commiserate
 commission
@@ -1500,7 +1454,6 @@ commute
 commuter
 compact
 compaction
-companies
 companion
 company
 comparable
@@ -1572,7 +1525,6 @@ computation
 compute
 computer
 computerize
-computers
 comrade
 concave
 conceal
@@ -1594,7 +1546,6 @@ concert
 concerted
 concerto
 concession
-concessions
 conciliatory
 concise
 conciseness
@@ -1616,7 +1567,6 @@ condiment
 condition
 conditional
 conditioning
-conditions
 condolence
 condone
 condor
@@ -1747,11 +1697,9 @@ consume
 consumer
 consumption
 contact
-contacts
 contagious
 contain
 container
-contaminants
 contaminate
 contamination
 contemn
@@ -1767,7 +1715,6 @@ content
 contented
 contention
 contentious
-contents
 contest
 contestant
 context
@@ -1788,7 +1735,6 @@ contour
 contract
 contraction
 contractor
-contracts
 contradict
 contradiction
 contradictory
@@ -1892,7 +1838,6 @@ counterclockwise
 counterfeit
 counterpart
 countless
-countries
 country
 countryside
 county
@@ -1934,7 +1879,6 @@ creator
 creature
 credence
 credential
-credentials
 credible
 credit
 creditor
@@ -1951,7 +1895,6 @@ crippling
 crisis
 crispy
 crisscross
-criteria
 criterion
 critic
 critical
@@ -2009,15 +1952,12 @@ curriculum
 cursory
 curtail
 curtain
-curtains
 cushion
 custodian
 custom
 customarily
 customary
 customer
-customers
-customs
 cuticle
 cutter
 cutting
@@ -2029,7 +1969,6 @@ cylinder
 cynical
 dagger
 damage
-damages
 dampen
 dancer
 danger
@@ -2088,7 +2027,6 @@ decompose
 decomposition
 decorate
 decoration
-decorations
 decorative
 decorum
 decrease
@@ -2269,7 +2207,6 @@ detach
 detached
 detail
 detailed
-details
 detain
 detect
 detectable
@@ -2338,7 +2275,6 @@ difference
 different
 differentiate
 difficult
-difficulties
 difficulty
 diffuse
 diffusion
@@ -2369,7 +2305,6 @@ dinosaur
 dioxide
 diploma
 diplomacy
-diplomas
 diplomat
 diplomatic
 direct
@@ -2437,14 +2372,12 @@ discuss
 discussion
 disdain
 disease
-diseases
 disfigure
 disgrace
 disguise
 disgust
 disgusted
 disgusting
-dishes
 dishonest
 dishonour
 dishwasher
@@ -2485,7 +2418,6 @@ disposition
 disproportionate
 disprove
 dispute
-disputes
 disregard
 disreputable
 disrepute
@@ -2563,12 +2495,10 @@ docile
 doctor
 doctoral
 doctorate
-doctors
 doctrine
 document
 documentary
 documentation
-documents
 dogged
 dogmatic
 doleful
@@ -2585,7 +2515,6 @@ domination
 dominion
 donate
 donation
-donations
 donkey
 dormant
 dormitory
@@ -2623,7 +2552,6 @@ drench
 dressing
 driftwood
 drinking
-drinks
 dripstone
 driver
 driving
@@ -2649,7 +2577,6 @@ duration
 during
 dustbin
 dustman
-duties
 dweller
 dwelling
 dwindle
@@ -2660,7 +2587,6 @@ dynamo
 dynasty
 eagerness
 earnest
-earnings
 earring
 earthenware
 earthquake
@@ -2704,7 +2630,6 @@ effect
 effective
 effectively
 effectiveness
-effects
 effervesce
 efficacy
 efficiency
@@ -2748,7 +2673,6 @@ elegant
 element
 elemental
 elementary
-elements
 elephant
 elevate
 elevation
@@ -2795,7 +2719,6 @@ embryological
 embryonic
 emerge
 emergence
-emergencies
 emergency
 emerging
 emigrant
@@ -2815,7 +2738,6 @@ empire
 empirical
 employ
 employee
-employees
 employer
 employment
 empower
@@ -2849,7 +2771,6 @@ endurance
 endure
 enduring
 energetic
-energies
 energize
 energy
 enervate
@@ -2861,7 +2782,6 @@ engender
 engine
 engineer
 engineering
-engineers
 england
 engrave
 engraving
@@ -3021,7 +2941,6 @@ exalted
 examination
 examine
 example
-examples
 exasperate
 excavate
 excavation
@@ -3099,7 +3018,6 @@ expeditious
 expend
 expenditure
 expense
-expenses
 expensive
 experience
 experienced
@@ -3107,7 +3025,6 @@ experiment
 experimental
 experimentally
 experimentation
-experiments
 expert
 expertise
 expire
@@ -3183,15 +3100,12 @@ facial
 facile
 facilitate
 facilitation
-facilities
 facility
 facsimile
 faction
 factious
 factitious
 factor
-factories
-factors
 factory
 factual
 faculty
@@ -3203,7 +3117,6 @@ faithful
 faithfulness
 falcon
 falconer
-falcons
 fallacious
 fallacy
 fallible
@@ -3214,7 +3127,6 @@ familiar
 familiarise
 familiarity
 familiarize
-families
 family
 famine
 famish
@@ -3229,7 +3141,6 @@ fantasy
 faraway
 farewell
 farmer
-farmers
 farming
 farther
 farthest
@@ -3262,7 +3173,6 @@ feasible
 feather
 feature
 featureless
-features
 fecundity
 federal
 federation
@@ -3282,7 +3192,6 @@ ferment
 fermentation
 ferocious
 ferret
-ferries
 ferromagnetic
 ferrous
 fertile
@@ -3310,7 +3219,6 @@ figment
 figurative
 figure
 figurehead
-figures
 filament
 filmed
 filter
@@ -3325,7 +3233,6 @@ finesse
 finger
 fingernail
 fingerprint
-fingers
 fingertip
 finish
 finite
@@ -3335,7 +3242,6 @@ fireplace
 fireproof
 firewood
 firework
-fireworks
 firmness
 fisherman
 fishing
@@ -3371,14 +3277,12 @@ flighty
 flimsy
 floating
 floodplain
-floors
 floral
 florid
 flounder
 flourish
 flourishment
 flower
-flowers
 fluctuate
 fluctuation
 fluency
@@ -3465,11 +3369,9 @@ fortunate
 fortunately
 fortune
 forward
-forwards
 fossil
 fossilize
 fossilized
-fossils
 foster
 foundation
 founder
@@ -3687,7 +3589,6 @@ gourmand
 gourmet
 govern
 government
-governments
 governor
 graceful
 gracious
@@ -3695,7 +3596,6 @@ gradient
 gradual
 gradually
 graduate
-graduates
 graduation
 graffiti
 grammar
@@ -3711,11 +3611,9 @@ grandma
 grandmother
 grandpa
 grandparent
-grandparents
 grandson
 granite
 granny
-grants
 granular
 graphic
 graphically
@@ -3752,7 +3650,6 @@ grouchy
 ground
 groundlessly
 groundsheet
-groups
 growing
 growth
 grudge
@@ -3761,7 +3658,6 @@ grumpy
 guarantee
 guarantor
 guardian
-guests
 guidance
 guideline
 guileless
@@ -3775,7 +3671,6 @@ gymnastic
 gymnastics
 gyration
 habitat
-habits
 habitual
 hacker
 hackneyed
@@ -3930,7 +3825,6 @@ history
 hitchhike
 hitherto
 hoarse
-hobbies
 holder
 holiday
 hollow
@@ -3968,7 +3862,6 @@ hornet
 horrible
 horror
 horsepower
-horses
 horticulture
 hospitable
 hospital
@@ -3981,7 +3874,6 @@ hostile
 hostility
 hotdog
 household
-households
 housekeeping
 housewife
 housework
@@ -3995,7 +3887,6 @@ humanist
 humanistic
 humanitarian
 humanity
-humans
 humble
 humbly
 humdrum
@@ -4025,7 +3916,6 @@ hydrosphere
 hygiene
 hypersensitive
 hyphen
-hypotheses
 hypothesis
 hypothesize
 hysteria
@@ -4041,7 +3931,6 @@ identical
 identifiable
 identification
 identify
-identities
 identity
 ideological
 ideology
@@ -4140,7 +4029,6 @@ implore
 import
 importance
 important
-imports
 importune
 impose
 imposing
@@ -4364,13 +4252,11 @@ inoffensive
 inordinate
 inorganic
 inquire
-inquiries
 inquiry
 inquisitive
 insane
 insanity
 insect
-insects
 insecure
 insert
 insertion
@@ -4409,19 +4295,15 @@ instinct
 instinctive
 instinctively
 institute
-institutes
 institution
 institutionalize
-institutions
 instruct
 instruction
 instructive
 instructor
-instructors
 instrument
 instrumental
 instrumentalist
-instruments
 insubordinate
 insufferable
 insufficient
@@ -4504,7 +4386,6 @@ intervention
 interview
 interviewee
 interviewer
-interviews
 intestine
 intimacy
 intimate
@@ -4550,7 +4431,6 @@ invest
 investigate
 investigation
 investigator
-investigators
 investment
 invigilate
 invincible
@@ -4597,7 +4477,6 @@ island
 isolate
 isolated
 isolation
-issues
 italian
 iterate
 itinerant
@@ -4617,7 +4496,6 @@ jettison
 jeweler
 jewellery
 jewelry
-jewels
 jewish
 jingle
 jocose
@@ -4658,14 +4536,12 @@ kerosene
 kettle
 keyboard
 keyword
-keywords
 kidnap
 kidney
 killer
 killing
 kilogram
 kilogramme
-kilograms
 kilometer
 kilometre
 kilowatt
@@ -4678,7 +4554,6 @@ kingdom
 kitchen
 knapsack
 knight
-knives
 knowhow
 knowledge
 knowledgeable
@@ -4709,7 +4584,6 @@ languish
 lantern
 laptop
 largely
-larvae
 larynx
 lasting
 lately
@@ -4724,7 +4598,6 @@ laughter
 launch
 laundry
 laurel
-laurels
 lavatory
 lavish
 lawsuit
@@ -4742,7 +4615,6 @@ leakage
 learned
 learning
 leather
-leaves
 lecture
 lecturer
 leftover
@@ -4770,13 +4642,11 @@ leopard
 leprosy
 lessen
 lesson
-lessons
 lethal
 lethargic
 lethargy
 letter
 lettuce
-levels
 levity
 liability
 liable
@@ -4787,7 +4657,6 @@ liberate
 liberation
 liberty
 librarian
-libraries
 library
 licence
 license
@@ -4801,7 +4670,6 @@ lighter
 lighthouse
 lightly
 lightning
-lights
 likelihood
 likely
 likeness
@@ -4845,7 +4713,6 @@ locality
 locally
 locate
 location
-locations
 locker
 locomote
 locomotion
@@ -4891,7 +4758,6 @@ lyrically
 lyricist
 machine
 machinery
-machines
 mackintosh
 madden
 magazine
@@ -4922,7 +4788,6 @@ maintenance
 majestic
 majesty
 majority
-majors
 makeup
 making
 malady
@@ -5014,7 +4879,6 @@ matchless
 matchstick
 material
 materialism
-materials
 maternal
 maternity
 mathematic
@@ -5042,8 +4906,6 @@ meanwhile
 measurable
 measure
 measurement
-measurements
-measures
 mechanic
 mechanical
 mechanically
@@ -5120,7 +4982,6 @@ method
 methodical
 methodically
 methodology
-methods
 meticulous
 meticulously
 metric
@@ -5154,7 +5015,6 @@ milestone
 milieu
 militant
 military
-millennia
 millennium
 millimeter
 millimetre
@@ -5182,7 +5042,6 @@ minority
 minuscule
 minute
 minutely
-minutes
 miracle
 miraculous
 mirage
@@ -5296,7 +5155,6 @@ mourning
 moustache
 mouthful
 movement
-movies
 mucous
 muddle
 mulberry
@@ -5319,7 +5177,6 @@ murder
 murderer
 murmur
 muscle
-muscles
 muscular
 museum
 mushroom
@@ -5351,7 +5208,6 @@ narrow
 narrowly
 nation
 national
-nationalities
 nationality
 nationwide
 native
@@ -5412,7 +5268,6 @@ neutron
 nevertheless
 newscast
 newspaper
-newspapers
 newsstand
 nibble
 nicety
@@ -5481,7 +5336,6 @@ nowhere
 noxious
 nuance
 nuclear
-nuclei
 nucleus
 nuisance
 nullify
@@ -5502,7 +5356,6 @@ obesity
 object
 objection
 objective
-objectives
 obligated
 obligation
 obligatory
@@ -5540,7 +5393,6 @@ occasion
 occasional
 occasionally
 occupant
-occupants
 occupation
 occupational
 occupy
@@ -5586,7 +5438,6 @@ operational
 operator
 opinion
 opponent
-opportunities
 opportunity
 oppose
 opposed
@@ -5602,7 +5453,6 @@ optimistic
 optimum
 option
 optional
-options
 optometrist
 opulence
 oracle
@@ -5676,7 +5526,6 @@ outset
 outside
 outsider
 outskirt
-outskirts
 outspoken
 outstanding
 outstrip
@@ -5765,7 +5614,6 @@ panorama
 panther
 pantry
 paperback
-papers
 paperwork
 parachute
 parade
@@ -5790,7 +5638,6 @@ parcel
 pardon
 parent
 parental
-parents
 parking
 parliament
 parliamentary
@@ -5799,14 +5646,12 @@ parrot
 partial
 partially
 participant
-participants
 participate
 participation
 particle
 particular
 particularly
 particulate
-parties
 partisan
 partition
 partly
@@ -5814,7 +5659,6 @@ partner
 partnership
 passage
 passenger
-passengers
 passerby
 passion
 passionate
@@ -5834,7 +5678,6 @@ pathway
 patience
 patient
 patiently
-patients
 patriarch
 patriarchal
 patricide
@@ -5847,7 +5690,6 @@ patron
 patronage
 patronizing
 pattern
-patterns
 paucity
 pauper
 pavement
@@ -5860,7 +5702,6 @@ peaceful
 peacock
 peanut
 peasant
-peasants
 pebble
 peculate
 peculiar
@@ -5882,7 +5723,6 @@ penetrating
 penetration
 penicillin
 peninsula
-pennies
 pension
 pensive
 penury
@@ -5970,7 +5810,6 @@ petrol
 petroleum
 pharmaceutical
 pharmacy
-phenomena
 phenomenal
 phenomenally
 phenomenon
@@ -5984,16 +5823,13 @@ phlegmatic
 phobia
 phonetic
 phonetics
-photocopies
 photocopy
 photoelectric
 photograph
 photographer
 photographic
-photographs
 photography
 photojournalism
-photos
 photosensitive
 photosphere
 photosynthesis
@@ -6010,7 +5846,6 @@ pianist
 pickle
 picnic
 picture
-pictures
 picturesque
 piecemeal
 pierce
@@ -6039,7 +5874,6 @@ pivotal
 placard
 placate
 placement
-places
 placid
 plagiarism
 plagiarize
@@ -6053,11 +5887,9 @@ planetarium
 planetary
 plankton
 planner
-planners
 planning
 plantation
 planting
-plants
 plasma
 plaster
 plastic
@@ -6154,7 +5986,6 @@ portray
 portrayal
 portuguese
 position
-positions
 positive
 positively
 possess
@@ -6175,7 +6006,6 @@ postgraduate
 posthumous
 postman
 postmaster
-postmen
 postoperative
 postpone
 postscript
@@ -6194,7 +6024,6 @@ potter
 pottery
 poultry
 pounce
-pounds
 poverty
 powder
 powerful
@@ -6213,7 +6042,6 @@ preach
 preacher
 precarious
 precaution
-precautions
 precede
 precedence
 precedent
@@ -6321,7 +6149,6 @@ principle
 printed
 printer
 printing
-priorities
 priority
 prison
 prisoner
@@ -6330,7 +6157,6 @@ privacy
 private
 privately
 privilege
-prizes
 probability
 probable
 probably
@@ -6338,11 +6164,9 @@ probation
 probity
 problem
 problematic
-problems
 procedure
 proceed
 proceeding
-proceeds
 process
 processed
 processing
@@ -6360,13 +6184,11 @@ product
 production
 productive
 productivity
-products
 profane
 profess
 profession
 professional
 professionalism
-professions
 professor
 proficiency
 proficient
@@ -6374,7 +6196,6 @@ profile
 profit
 profitable
 profitless
-profits
 profound
 profoundly
 profundity
@@ -6535,12 +6356,10 @@ pursuit
 puzzle
 puzzled
 puzzling
-pyjamas
 pyramid
 quadrilateral
 quaint
 qualification
-qualifications
 qualified
 qualify
 qualitative
@@ -6558,7 +6377,6 @@ quench
 question
 questionable
 questionnaire
-questions
 quibble
 quicken
 quickly
@@ -6626,7 +6444,6 @@ rawhide
 reaction
 reactor
 reader
-readers
 readily
 reading
 readjust
@@ -6642,7 +6459,6 @@ really
 rearrange
 reason
 reasonable
-reasons
 reassess
 reassure
 rebate
@@ -6698,7 +6514,6 @@ record
 recorder
 recordholder
 recording
-records
 recount
 recourse
 recover
@@ -6725,7 +6540,6 @@ reduce
 reduction
 redundant
 referee
-referees
 reference
 referendum
 refine
@@ -6745,7 +6559,6 @@ reframe
 refresh
 refreshing
 refreshment
-refreshments
 refrigerant
 refrigerate
 refrigeration
@@ -6761,7 +6574,6 @@ refute
 regard
 regarding
 regardless
-regards
 regenerate
 regeneration
 regenerative
@@ -6780,7 +6592,6 @@ regularity
 regularly
 regulate
 regulation
-regulations
 regulatory
 rehabilitate
 rehabilitation
@@ -6803,7 +6614,6 @@ relapse
 relate
 related
 relation
-relations
 relationship
 relative
 relatively
@@ -6830,7 +6640,6 @@ reluctant
 remain
 remainder
 remaining
-remains
 remark
 remarkable
 remarkably
@@ -6880,7 +6689,6 @@ replica
 replicate
 report
 reporter
-reports
 represent
 representation
 representative
@@ -6921,7 +6729,6 @@ reside
 residence
 resident
 residential
-residents
 residual
 residue
 resign
@@ -6939,7 +6746,6 @@ resonant
 resort
 resource
 resourceful
-resources
 respect
 respectable
 respectful
@@ -6949,13 +6755,11 @@ respiration
 respiratory
 respond
 respondent
-respondents
 response
 responsibility
 responsible
 responsive
 restaurant
-restaurants
 restless
 restock
 restoration
@@ -6967,11 +6771,9 @@ restriction
 restrictive
 result
 resultant
-results
 resume
 retail
 retailer
-retails
 retain
 retard
 retell
@@ -7035,7 +6837,6 @@ rhythmical
 ribbon
 richness
 riddle
-riders
 ridicule
 ridiculous
 righteous
@@ -7046,10 +6847,8 @@ ripple
 rising
 ritual
 rivalry
-rivers
 robber
 robbery
-robots
 robust
 rocket
 rodent
@@ -7153,7 +6952,6 @@ saucer
 sausage
 savage
 saving
-savings
 saying
 scaffolding
 scalable
@@ -7187,8 +6985,6 @@ schoolmate
 science
 scientific
 scientist
-scientists
-scissors
 scorch
 scornful
 scotch
@@ -7223,7 +7019,6 @@ seabed
 seafood
 seagull
 seaman
-seamen
 seamount
 seaport
 search
@@ -7300,7 +7095,6 @@ sensor
 sensory
 sensuous
 sentence
-sentences
 sentiment
 sentimental
 sentimentalism
@@ -7388,7 +7182,6 @@ shorten
 shortfall
 shorthand
 shortly
-shorts
 shortwave
 should
 shoulder
@@ -7461,7 +7254,6 @@ skiing
 skilful
 skilled
 skillful
-skills
 skimpy
 skyline
 skyrocket
@@ -7494,14 +7286,12 @@ smelly
 smelting
 smoggy
 smoker
-smokers
 smoking
 smooth
 smoothly
 smother
 smuggle
 snackbar
-snacks
 snatch
 sneaker
 sneeze
@@ -7561,14 +7351,12 @@ sorrow
 sorrowful
 soundproof
 source
-sources
 southeast
 southern
 southward
 southwards
 southwest
 souvenir
-souvenirs
 sovereign
 sovereignty
 soviet
@@ -7607,7 +7395,6 @@ spectacle
 spectacular
 spectacularly
 spectator
-spectra
 spectrum
 speculate
 speculation
@@ -7643,10 +7430,8 @@ spontaneity
 spontaneous
 spontaneously
 spoonful
-spoons
 sporadic
 sporadically
-sports
 sportsman
 sportswear
 spotless
@@ -7683,7 +7468,6 @@ stagnant
 stained
 stainless
 staircase
-stairs
 stairway
 stamina
 stammer
@@ -7691,7 +7475,6 @@ standard
 standardise
 standardize
 standardized
-standards
 standing
 standpoint
 stanza
@@ -7708,14 +7491,12 @@ starvation
 starve
 stately
 statement
-states
 statesman
 stateswoman
 static
 station
 stationary
 stationery
-stations
 statistic
 statistical
 statistician
@@ -7750,7 +7531,6 @@ stillness
 stimulant
 stimulate
 stimulation
-stimuli
 stimulus
 stingy
 stipend
@@ -7764,13 +7544,11 @@ stodgy
 stomach
 stomachache
 stonemason
-stones
 stoppage
 stopwatch
 storage
 storehouse
 storeroom
-stores
 storey
 stormy
 straight
@@ -7783,7 +7561,6 @@ strand
 strange
 stranger
 strangler
-strata
 strategic
 strategical
 strategically
@@ -7811,7 +7588,6 @@ striking
 strikingly
 string
 stringent
-strings
 stripe
 strive
 stroke
@@ -7825,7 +7601,6 @@ struggle
 stubborn
 stubbornness
 student
-studies
 studio
 stuffy
 stumble
@@ -7833,7 +7608,6 @@ stunning
 stupid
 sturdy
 stutter
-styles
 stylish
 stylized
 subcommittee
@@ -7846,7 +7620,6 @@ subject
 subjected
 subjection
 subjective
-subjects
 subjugation
 sublimate
 submarine
@@ -7877,7 +7650,6 @@ substantive
 substitute
 subterranean
 subtitle
-subtitles
 subtle
 subtract
 subtraction
@@ -7910,7 +7682,6 @@ suffrage
 suffuse
 suggest
 suggestion
-suggestions
 suicide
 suitable
 suitcase
@@ -7931,7 +7702,6 @@ sunburnt
 sunday
 sundial
 sunflower
-sunglasses
 sunlight
 sunlit
 sunrise
@@ -7991,7 +7761,6 @@ surprisingly
 surrender
 surround
 surrounding
-surroundings
 surveillance
 survey
 survivability
@@ -8056,11 +7825,8 @@ systematic
 systematical
 systematically
 systematize
-systems
 tableland
-tables
 tablet
-tablets
 tableware
 tabulate
 tackle
@@ -8097,14 +7863,12 @@ teapot
 technical
 technician
 technique
-techniques
 technological
 technology
 tectonics
 tedious
 tedium
 teenager
-telecommunications
 telecommuter
 telegram
 telegraph
@@ -8120,7 +7884,6 @@ temperance
 temperate
 temperature
 temple
-temples
 temporal
 temporarily
 temporary
@@ -8210,7 +7973,6 @@ though
 thought
 thoughtful
 thoughtless
-thoughts
 thousand
 thousandfold
 thrall
@@ -8220,7 +7982,6 @@ threadlike
 threat
 threaten
 threateningly
-threats
 thresh
 threshold
 thrift
@@ -8241,7 +8002,6 @@ thunderstorm
 thursday
 thwart
 ticket
-tickets
 tickle
 tighten
 tightly
@@ -8272,7 +8032,6 @@ toothache
 toothbrush
 toothed
 toothpaste
-topics
 topographical
 topography
 topsoil
@@ -8297,7 +8056,6 @@ touchy
 touring
 tourism
 tourist
-tourists
 tournament
 toward
 towards
@@ -8318,7 +8076,6 @@ tragic
 trainer
 training
 trainload
-trains
 traitor
 trample
 tranquil
@@ -8358,7 +8115,6 @@ trapper
 trauma
 travel
 traveler
-travelers
 traveling
 traveller
 traverse
@@ -8377,7 +8133,6 @@ tremendous
 tremendously
 tremor
 trench
-trends
 trepidation
 trespass
 trespasser
@@ -8387,7 +8142,6 @@ tribal
 tribulation
 tributary
 tribute
-tributes
 trickle
 trifle
 trifling
@@ -8401,7 +8155,6 @@ triumphant
 trivial
 trolley
 trolleybus
-troops
 tropic
 tropical
 tropics
@@ -8410,7 +8163,6 @@ troublesome
 troubling
 trough
 troupe
-trousers
 truant
 trudge
 trumpet
@@ -8426,7 +8178,6 @@ tumour
 tumult
 tundra
 tunnel
-tunnels
 turbine
 turbulence
 turbulent
@@ -8439,7 +8190,6 @@ turnpike
 turquoise
 turtle
 tutorial
-tweezers
 twelfth
 twelve
 twentieth
@@ -8553,7 +8303,6 @@ united
 universal
 universally
 universe
-universities
 university
 unjust
 unkind
@@ -8643,7 +8392,6 @@ useful
 useless
 usually
 utensil
-utensils
 utilise
 utilitarian
 utility
@@ -8653,7 +8401,6 @@ utmost
 utopian
 utterance
 utterly
-vacancies
 vacancy
 vacant
 vacate
@@ -8737,7 +8484,6 @@ victorious
 victory
 videocassette
 videophone
-videos
 videotape
 viewer
 viewpoint
@@ -8768,7 +8514,6 @@ visibility
 visible
 vision
 visitor
-visitors
 visual
 visualize
 vitalism
@@ -8791,7 +8536,6 @@ volume
 voluminous
 voluntary
 volunteer
-volunteers
 voracious
 voucher
 voyage
@@ -8847,9 +8591,7 @@ website
 wedding
 wednesday
 weekday
-weekdays
 weekend
-weekends
 weekly
 weight
 welcome
@@ -8859,11 +8601,9 @@ westerner
 westward
 westwards
 wetland
-whales
 whatever
 whatsoever
 wheedle
-wheels
 whenever
 whereas
 whereby
@@ -8934,7 +8674,6 @@ workout
 workpiece
 workplace
 workshop
-workshops
 worldly
 worldwide
 worried
