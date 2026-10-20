@@ -3,6 +3,15 @@
 本插件的版本更新记录。格式参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)，
 版本号遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [1.0.3] - 2026-10-20
+
+### 变更
+
+- 无人猜测的空闲计时由 1 分钟延长到 3 分钟，给玩家更多思考时间。
+- 超时文案同步为 `3分钟内无人猜测：公布答案：xxx`；代码中用
+  `IDLE_TIMEOUT_MINUTES` 与 `IDLE_TIMEOUT_SECONDS` 两处联动，避免文案与数值脱节。
+- 插件描述、README 中的时限说明同步更新。
+
 ## [1.0.2] - 2026-10-20
 
 ### 变更

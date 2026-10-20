@@ -2,7 +2,7 @@
 
 Each chat session owns one round. Players either reveal a letter or guess the
 whole word, and the answer is published when nobody makes an effective guess
-within one minute.
+within three minutes.
 """
 
 from __future__ import annotations
@@ -16,9 +16,10 @@ from astrbot.api import logger
 from astrbot.api.event import AstrMessageEvent, MessageChain, filter
 from astrbot.api.star import Context, Star, register
 
-PLUGIN_VERSION = "1.0.2"
+PLUGIN_VERSION = "1.0.3"
 MAX_ATTEMPTS = 6
-IDLE_TIMEOUT_SECONDS = 60
+IDLE_TIMEOUT_MINUTES = 3
+IDLE_TIMEOUT_SECONDS = IDLE_TIMEOUT_MINUTES * 60
 MIN_WORD_LENGTH = 6
 MASK_CHAR = "？"
 DICT_DIR = Path(__file__).resolve().parent / "dict"
@@ -226,7 +227,8 @@ class FylavvorHangman(Star):
             await self.context.send_message(
                 session,
                 MessageChain().message(
-                    f"1分钟内无人猜测：公布答案：{game.answer}\n{ROUND_OVER}"
+                    f"{IDLE_TIMEOUT_MINUTES}分钟内无人猜测：公布答案："
+                    f"{game.answer}\n{ROUND_OVER}"
                 ),
             )
         except Exception as exc:
