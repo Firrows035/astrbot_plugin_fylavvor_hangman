@@ -1,0 +1,16 @@
+name: astrbot_plugin_fylavvor_hangman # 插件唯一识别名，以 astrbot_plugin_ 前缀开头
+display_name: Hangman 猜词游戏 # 用于展示的名字（需要版本 >= v4.5.0）
+desc: 经典 Hangman 猜词游戏，支持字母揭示与整词猜测，1 分钟无人猜测自动公布答案。
+short_desc: 6 次机会、1 分钟倒计时的经典猜词游戏。
+version: v1.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: Ferrin Fylavvor # 作者
+repo: https://github.com/Firrows035/ # 插件的仓库地址
+help: /startguess 开始游戏，/guess <字母或单词> 猜词，/giveup 放弃并公布答案
+support_platforms:
+  - aiocqhttp
+  - qq_official
+  - qq_official_webhook
+  - telegram
+  - discord
+  - lark
+astrbot_version: ">=4.16"
